@@ -37,6 +37,8 @@ Bachelor's student at UTM University Malaysia, majoring in Computer Networks and
 
 ---
 
+
+
 ## 🌐 Socials
 
 <p align="left">
@@ -74,8 +76,15 @@ Bachelor's student at UTM University Malaysia, majoring in Computer Networks and
 
 ## 📊 GitHub Analytics
 
-
-
 ### 🔹 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=malekalrihawi&theme=dark)
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malekalrihawi&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true&hide_title=false&custom_title=Contribution%20Activity" alt="Malek's Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malekalrihawi&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 

@@ -76,8 +76,6 @@ Bachelor's student at UTM University Malaysia, majoring in Computer Networks and
 
 ## 📊 GitHub Analytics
 
-### 🔹 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=malekalrihawi&theme=dark)
 
 
 <div align="center">
